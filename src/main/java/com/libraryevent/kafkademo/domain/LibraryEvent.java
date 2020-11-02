@@ -4,7 +4,7 @@ import org.springframework.lang.NonNull;
 
 public class LibraryEvent {
 	
-	private Integer libraryEventId;
+	private  Integer libraryEventId;
 	private LibraryEventType eventType;
 	
 	@NonNull
